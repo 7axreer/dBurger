@@ -1,0 +1,1896 @@
+@media print {
+
+    .print {
+        display: flex;
+    }
+
+    .wrapper {
+        display: none;
+    }
+}
+
+@media(max-width: 1300px) {
+
+    .wrapper__bottom-block {
+        width: 300px;
+    }
+
+}
+
+@media(max-width: 1260px) {
+
+    .wrapper__bottom-block {
+        width: 290px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 115px;
+    }
+
+}
+
+@media(max-width: 1220px) {
+
+    .wrapper__bottom-block {
+        width: 280px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 113px;
+    }
+
+}
+
+@media(max-width: 1175px) {
+
+    .wrapper__bottom-block {
+        width: 275px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 105px;
+    }
+
+}
+
+@media(max-width: 1150px) {
+
+    .wrapper__bottom-block {
+        width: 270px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 103px;
+    }
+
+}
+
+@media(max-width: 1130px) {
+
+    .wrapper__bottom-block {
+        width: 267px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 98px;
+    }
+
+}
+
+@media(max-width: 1115px) {
+
+    .wrapper__bottom-block {
+        width: 263px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 95px;
+    }
+
+}
+
+@media(max-width: 1090px) {
+
+    .wrapper__bottom-block {
+        width: 257px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 90px;
+    }
+
+}
+
+@media(max-width: 1070px) {
+
+    .wrapper__bottom-block {
+        width: 250px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 86px;
+    }
+
+}
+
+@media(max-width: 1040px) {
+
+    .wrapper__bottom-block {
+        width: 245px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 80px;
+        margin-top: -45px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 8px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 8px;
+    }
+
+}
+
+@media(max-width: 1010px) {
+
+    .wrapper__bottom-block {
+        width: 238px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 75px;
+        margin-top: -45px;
+    }
+
+
+    .wrapper__bottom-price {
+        padding: 8px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 8px;
+    }
+
+}
+
+@media(max-width: 990px) {
+
+    .wrapper__bottom-block {
+        width: 232px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 72px;
+        margin-top: -45px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 8px;
+        font-size: 15px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 8px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 18px;
+    }
+
+}
+
+@media(max-width: 970px) {
+
+    .wrapper__bottom-block {
+        width: 226px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 70px;
+        margin-top: -45px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 7px;
+        font-size: 15px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 7px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 17px;
+    }
+
+    .wrapper__list-count {
+        width: 27px;
+        height: 27px;
+        top: -11px;
+        right: -6px;
+    }
+
+    .wrapper__top-basket {
+        width: 350px;
+        height: 385px;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -420px;
+    }
+
+}
+
+@media(max-width: 945px) {
+
+    .wrapper__bottom-block {
+        width: 220px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 68px;
+        margin-top: -38px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 6px;
+        font-size: 15px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 7px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 16px;
+    }
+
+    .wrapper__list-count {
+        width: 27px;
+        height: 27px;
+        top: -11px;
+        right: -6px;
+    }
+
+    .wrapper__top-basket {
+        width: 340px;
+        height: 380px;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -420px;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 14px;
+    }
+
+}
+
+@media(max-width: 932px) {
+
+    .wrapper__bottom-block {
+        width: 217px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 63px;
+        margin-top: -38px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 6px;
+        font-size: 14px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 7px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 16px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 340px;
+        height: 380px;
+        right: 0;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -420px;
+        right: 0;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 14px;
+    }
+
+    .basket__checklist-product {
+        padding: 13px;
+    }
+
+    .basket__checklist-info img {
+        width: 65px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 8px;
+    }
+
+    .basket__checklist-name {
+        font-size: 14px;
+    }
+
+    .basket__checklist-price {
+        font-size: 14px;
+    }
+
+    .basket__checklist-symbol {
+        width: 22px;
+        height: 22px;
+        font-size: 15px;
+    }
+
+    .basket__checklist-output {
+        width: 22px;
+        height: 22px;
+        font-size: 14px;
+    }
+
+}
+
+@media(max-width: 905px) {
+
+    .wrapper__bottom-block {
+        width: 210px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 60px;
+        margin-top: -32px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 5px;
+        font-size: 13px;
+        border-radius: 7px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 6px;
+        border-radius: 7px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 15px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 330px;
+        height: 370px;
+        right: 1px;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -420px;
+        right: 1px;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 13px;
+    }
+
+    .basket__checklist-product {
+        padding: 13px;
+    }
+
+    .basket__checklist-info img {
+        width: 65px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 8px;
+    }
+
+    .basket__checklist-name {
+        font-size: 12px;
+    }
+
+    .basket__checklist-price {
+        font-size: 12px;
+    }
+
+    .basket__checklist-symbol {
+        width: 21px;
+        height: 21px;
+        font-size: 12px;
+    }
+
+    .basket__checklist-output {
+        width: 21px;
+        height: 21px;
+        font-size: 13px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 18px 0;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+}
+
+@media(max-width: 880px) {
+
+    .wrapper__bottom-block {
+        width: 205px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 53px;
+        margin-top: -27px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 5px;
+        font-size: 13px;
+        border-radius: 7px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 6px;
+        border-radius: 7px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 15px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 320px;
+        height: 360px;
+        right: 0;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -395px;
+        right: 0;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 13px;
+    }
+
+    .basket__checklist-product {
+        padding: 13px;
+    }
+
+    .basket__checklist-info img {
+        width: 65px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 8px;
+    }
+
+    .basket__checklist-name {
+        font-size: 12px;
+    }
+
+    .basket__checklist-price {
+        font-size: 12px;
+    }
+
+    .basket__checklist-symbol {
+        width: 21px;
+        height: 21px;
+        font-size: 12px;
+    }
+
+    .basket__checklist-output {
+        width: 21px;
+        height: 21px;
+        font-size: 13px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 18px 0;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+}
+
+@media(max-width: 860px) {
+
+    .wrapper__bottom-block {
+        width: 200px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 53px;
+        margin-top: -27px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 4px;
+        font-size: 12px;
+        border-radius: 7px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 5px;
+        border-radius: 6px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 14px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 320px;
+        height: 360px;
+        right: 0;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -395px;
+        right: 0;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 13px;
+    }
+
+    .basket__checklist-product {
+        padding: 13px;
+    }
+
+    .basket__checklist-info img {
+        width: 64px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 7px;
+    }
+
+    .basket__checklist-name {
+        font-size: 11px;
+    }
+
+    .basket__checklist-price {
+        font-size: 11px;
+    }
+
+    .basket__checklist-symbol {
+        width: 20px;
+        height: 20px;
+        font-size: 11px;
+    }
+
+    .basket__checklist-output {
+        width: 20px;
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 17px 0;
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 15px 15px;
+    }
+
+}
+
+@media(max-width: 845px) {
+
+    .wrapper__bottom-block {
+        width: 197px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 51px;
+        margin-top: -27px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 4px;
+        font-size: 12px;
+        border-radius: 7px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 5px;
+        border-radius: 6px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 14px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 320px;
+        height: 360px;
+        right: 0;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -395px;
+        right: 0;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 13px;
+    }
+
+    .basket__checklist-product {
+        padding: 13px;
+    }
+
+    .basket__checklist-info img {
+        width: 64px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 7px;
+    }
+
+    .basket__checklist-name {
+        font-size: 11px;
+    }
+
+    .basket__checklist-price {
+        font-size: 11px;
+    }
+
+    .basket__checklist-symbol {
+        width: 20px;
+        height: 20px;
+        font-size: 11px;
+    }
+
+    .basket__checklist-output {
+        width: 20px;
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 17px 0;
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 15px 15px;
+    }
+
+}
+
+@media(max-width: 830px) {
+
+    .wrapper__bottom-block {
+        width: 192px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 51px;
+        margin-top: -27px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 4px;
+        font-size: 12px;
+        border-radius: 7px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 5px;
+        border-radius: 6px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 14px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 320px;
+        height: 360px;
+        right: 0;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -395px;
+        right: 0;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 13px;
+    }
+
+    .basket__checklist-product {
+        padding: 13px;
+    }
+
+    .basket__checklist-info img {
+        width: 64px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 7px;
+    }
+
+    .basket__checklist-name {
+        font-size: 11px;
+    }
+
+    .basket__checklist-price {
+        font-size: 11px;
+    }
+
+    .basket__checklist-symbol {
+        width: 20px;
+        height: 20px;
+        font-size: 11px;
+    }
+
+    .basket__checklist-output {
+        width: 20px;
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 16px 0;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 15px 15px;
+    }
+
+}
+
+@media(max-width: 805px) {
+
+    .wrapper__bottom-block {
+        width: 186px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 50px;
+        margin-top: -27px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 4px;
+        font-size: 12px;
+        border-radius: 7px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 5px;
+        border-radius: 6px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 14px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 320px;
+        height: 360px;
+        right: 0;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -395px;
+        right: 0;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 13px;
+    }
+
+    .basket__checklist-product {
+        padding: 13px;
+    }
+
+    .basket__checklist-info img {
+        width: 64px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 7px;
+    }
+
+    .basket__checklist-name {
+        font-size: 11px;
+    }
+
+    .basket__checklist-price {
+        font-size: 11px;
+    }
+
+    .basket__checklist-symbol {
+        width: 20px;
+        height: 20px;
+        font-size: 11px;
+    }
+
+    .basket__checklist-output {
+        width: 20px;
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 16px 0;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 15px 15px;
+    }
+
+}
+
+@media(max-width: 785px) {
+
+    .wrapper__bottom-block {
+        width: 180px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 47px;
+        margin-top: -24px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 4px;
+        font-size: 12px;
+        border-radius: 7px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 5px;
+        border-radius: 6px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 14px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 300px;
+        height: 340px;
+        right: -2px;
+        transform: translateY(-100%);
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -375px;
+        right: -2px;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 13px;
+    }
+
+    .basket__checklist-product {
+        padding: 13px;
+    }
+
+    .basket__checklist-info img {
+        width: 64px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 7px;
+    }
+
+    .basket__checklist-name {
+        font-size: 11px;
+    }
+
+    .basket__checklist-price {
+        font-size: 11px;
+    }
+
+    .basket__checklist-symbol {
+        width: 20px;
+        height: 20px;
+        font-size: 11px;
+    }
+
+    .basket__checklist-output {
+        width: 20px;
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 15px 0;
+        font-size: 13px;
+        line-height: 17px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 14px 14px;
+    }
+
+}
+
+@media(max-width: 770px) {
+
+    .wrapper__bottom-block {
+        width: 177px;
+    }
+
+    .wrapper__top-basket {
+        transform: translateY(-100%);
+    }
+
+}
+
+@media(max-width: 745px) {
+
+    .wrapper__bottom-block {
+        width: 306px;
+    }
+
+    .wrapper__bottom-image {
+        width: 140px;
+        height: 100px;
+        margin-top: -48px;
+    }
+
+    .swiper {
+        max-width: 715px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 10px;
+        font-size: 15px;
+        border-radius: 10px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 20px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 300px;
+        height: 340px;
+        right: -2px;
+        transform: translateY(-100%);
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -375px;
+        right: -2px;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 15px;
+    }
+
+    .basket__checklist-product {
+        padding: 10px;
+    }
+
+    .basket__checklist-info img {
+        width: 64px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 7px;
+    }
+
+    .basket__checklist-name {
+        font-size: 15px;
+    }
+
+    .basket__checklist-price {
+        font-size: 15px;
+    }
+
+    .basket__checklist-symbol {
+        width: 22px;
+        height: 22px;
+        font-size: 13px;
+    }
+
+    .basket__checklist-output {
+        width: 22px;
+        height: 22px;
+        font-size: 13px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 20px 0;
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 14px 14px;
+    }
+
+    .wrapper__bottom-content {
+        margin-top: 60px;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 65px;
+    }
+
+    .swiper-button-next::after,
+    .swiper-button-prev:after {
+        font-size: 45px !important;
+    }
+}
+
+@media(max-width: 720px) {
+
+    .wrapper__bottom-block {
+        width: 306px;
+    }
+
+    .wrapper__bottom-image {
+        width: 140px;
+        height: 100px;
+        margin-top: -44px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 10px;
+        font-size: 15px;
+        border-radius: 10px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 20px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 300px;
+        height: 340px;
+        right: -2px;
+        transform: translateY(-100%);
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -375px;
+        right: -2px;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 15px;
+    }
+
+    .basket__checklist-product {
+        padding: 10px;
+    }
+
+    .basket__checklist-info img {
+        width: 64px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 7px;
+    }
+
+    .basket__checklist-name {
+        font-size: 15px;
+    }
+
+    .basket__checklist-price {
+        font-size: 15px;
+    }
+
+    .basket__checklist-symbol {
+        width: 22px;
+        height: 22px;
+        font-size: 13px;
+    }
+
+    .basket__checklist-output {
+        width: 22px;
+        height: 22px;
+        font-size: 13px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 20px 0;
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 14px 14px;
+    }
+
+    .wrapper__bottom-content {
+        margin-top: 60px;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 60px;
+    }
+
+    .swiper-button-next::after,
+    .swiper-button-prev:after {
+        font-size: 45px !important;
+    }
+}
+
+@media(max-width: 685px) {
+
+    .wrapper__bottom-content {
+        gap: 63px;
+    }
+
+    .swiper-button-next::after,
+    .swiper-button-prev:after {
+        font-size: 40px !important;
+    }
+}
+
+@media(max-width: 665px) {
+
+    .wrapper__bottom-block {
+        width: 300px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 75px;
+        margin-top: -40px;
+    }
+
+    .wrapper__bottom-price {
+        padding: 9px;
+        font-size: 14px;
+        border-radius: 9px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 9px;
+        border-radius: 9px;
+    }
+
+    .wrapper__bottom-btn img {
+        width: 19px;
+    }
+
+    .wrapper__list-count {
+        width: 26px;
+        height: 26px;
+        top: -11px;
+        right: -6px;
+        font-size: 14px;
+    }
+
+    .wrapper__top-basket {
+        width: 300px;
+        height: 340px;
+        right: -2px;
+        transform: translateY(-100%);
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -375px;
+        right: -2px;
+    }
+
+    .wrapper__top-indecator {
+        width: 17px;
+        height: 17px;
+        top: -8px;
+        right: -8px;
+        font-size: 10px;
+    }
+
+
+    .basket-text {
+        font-size: 15px;
+    }
+
+    .basket__checklist-product {
+        padding: 10px;
+    }
+
+    .basket__checklist-info img {
+        width: 64px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 7px;
+    }
+
+    .basket__checklist-name {
+        font-size: 15px;
+    }
+
+    .basket__checklist-price {
+        font-size: 15px;
+    }
+
+    .basket__checklist-symbol {
+        width: 22px;
+        height: 22px;
+        font-size: 13px;
+    }
+
+    .basket__checklist-output {
+        width: 22px;
+        height: 22px;
+        font-size: 13px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 20px 0;
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 14px 14px;
+    }
+
+    .wrapper__bottom-content {
+        margin-top: 60px;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 63px;
+    }
+
+    .swiper-button-next::after,
+    .swiper-button-prev:after {
+        font-size: 40px !important;
+    }
+}
+
+@media(max-width: 645px) {
+
+    .wrapper__bottom-block {
+        width: 300px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 75px;
+        margin-top: -40px;
+    }
+
+
+    .wrapper__bottom-price {
+        padding: 9px;
+        font-size: 14px;
+        border-radius: 9px;
+    }
+
+    .wrapper__bottom-btn {
+        padding: 9px;
+        border-radius: 9px;
+    }
+
+
+    .basket-text {
+        font-size: 14px;
+    }
+
+    .basket__checklist-product {
+        padding: 11px;
+    }
+
+    .basket__checklist-info img {
+        width: 63px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 7px;
+    }
+
+    .basket__checklist-name {
+        font-size: 14px;
+    }
+
+    .basket__checklist-price {
+        font-size: 14px;
+    }
+
+    .basket__checklist-symbol {
+        width: 22px;
+        height: 22px;
+        font-size: 13px;
+    }
+
+    .basket__checklist-output {
+        width: 22px;
+        height: 22px;
+        font-size: 13px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 20px 0;
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+
+    .swiper-button-next::after,
+    .swiper-button-prev:after {
+        font-size: 35px !important;
+    }
+
+    .wrapper__center .swiper-pagination-bullet {
+        width: 11px;
+        height: 11px;
+    }
+}
+
+@media(max-width: 620px) {
+
+    .wrapper__bottom-block {
+        width: 290px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 80px;
+        margin-top: -40px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 27px 0;
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 12px 12px;
+    }
+
+    .wrapper__bottom-content {
+        margin-top: 75px;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 63px;
+    }
+
+}
+
+
+@media(max-width: 590px) {
+
+    .wrapper__bottom-block {
+        width: 285px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 75px;
+        margin-top: -40px;
+    }
+
+
+    .wrapper__bottom-name {
+        margin: 27px 0;
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 12px 12px;
+    }
+
+
+    .basket__checklist-name {
+        font-size: 15px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 8px;
+    }
+
+
+    .wrapper__top-basket {
+        width: 300px;
+        height: 340px;
+        right: -4px;
+    }
+
+    .wrapper__top-basket.active {
+        right: -4px;
+    }
+
+}
+
+
+@media(max-width: 570px) {
+
+    .wrapper__bottom-block {
+        width: 285px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 75px;
+        margin-top: -40px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 27px 0;
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 12px 12px;
+    }
+
+
+    .basket__checklist-name {
+        font-size: 15px;
+    }
+
+    .basket__checklist-sub {
+        margin-left: 8px;
+    }
+
+
+    .wrapper__top-basket {
+        width: 300px;
+        height: 340px;
+        right: -4px;
+    }
+
+    .wrapper__top-basket.active {
+        right: -4px;
+    }
+
+}
+
+
+@media(max-width: 440px) {
+
+    .wrapper__bottom-block {
+        width: 280px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 75px;
+        margin-top: -40px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 27px 0;
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 12px 12px;
+    }
+
+
+    .basket__checklist-name {
+        font-size: 13px;
+    }
+
+    .basket__checklist-price {
+        font-size: 13px;
+    }
+
+    .basket__checklist-symbol {
+        width: 22px;
+        height: 22px;
+        font-size: 16px;
+    }
+
+    .basket__checklist-output {
+        width: 22px;
+        height: 22px;
+    }
+
+
+
+    .basket__checklist-sub {
+        margin-left: 7px;
+    }
+
+
+    .wrapper__top-basket {
+        width: 280px;
+        height: 320px;
+        right: -4px;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -355px;
+        right: -4px;
+    }
+
+
+    .basket-text {
+        font-size: 14px;
+    }
+
+}
+
+@media(max-width: 400px) {
+
+    .wrapper__bottom-block {
+        width: 280px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 75px;
+        margin-top: -40px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 27px 0;
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 12px 12px;
+    }
+
+    .basket__checklist-product {
+        padding: 10px;
+    }
+    
+
+    .basket__checklist-info img {
+        width: 65px;
+    }
+
+    .basket__checklist-name {
+        font-size: 13px;
+    }
+
+    .basket__checklist-price {
+        font-size: 13px;
+    }
+
+    .basket__checklist-symbol {
+        width: 21px;
+        height: 21px;
+        font-size: 15px;
+    }
+
+    .basket__checklist-output {
+        width: 21px;
+        height: 21px;
+    }
+
+
+    .basket__checklist-sub {
+        margin-left: 6px;
+    }
+
+
+    .wrapper__top-basket {
+        width: 270px;
+        height: 300px;
+        right: -4px;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -335px;
+        right: -4px;
+    }
+
+
+    .basket-text {
+        font-size: 14px;
+    }
+
+}
+
+@media(max-width: 350px) {
+
+    .wrapper__bottom-block {
+        width: 280px;
+    }
+
+    .wrapper__bottom-image {
+        max-width: max-content;
+        height: 75px;
+        margin-top: -40px;
+    }
+
+    .wrapper__bottom-name {
+        margin: 27px 0;
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .wrapper__bottom-control {
+        padding: 0 12px 12px;
+    }
+
+    .basket__checklist-product {
+        padding: 10px;
+    }
+    
+
+    .basket__checklist-info img {
+        width: 65px;
+    }
+
+    .basket__checklist-name {
+        font-size: 13px;
+    }
+
+    .basket__checklist-price {
+        font-size: 13px;
+    }
+
+    .basket__checklist-symbol {
+        width: 21px;
+        height: 21px;
+        font-size: 15px;
+    }
+
+    .basket__checklist-output {
+        width: 21px;
+        height: 21px;
+    }
+
+
+    .basket__checklist-sub {
+        margin-left: 6px;
+    }
+
+
+    .wrapper__top-basket {
+        width: 270px;
+        height: 300px;
+        right: -4px;
+    }
+
+    .wrapper__top-basket.active {
+        bottom: -335px;
+        right: -4px;
+    }
+
+
+    .basket-text {
+        font-size: 14px;
+    }
+
+    .wrapper__bottom-content {
+        gap: 70px;
+    }
+
+}
